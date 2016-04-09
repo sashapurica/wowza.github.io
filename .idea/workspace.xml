@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a8fc783-ae07-41e0-b0ca-bdcf1705da6b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/intro-bg.jpg" afterPath="$PROJECT_DIR$/img/intro-bg.jpg" />
-    </list>
+    <list default="true" id="0a8fc783-ae07-41e0-b0ca-bdcf1705da6b" name="Default" comment="" />
     <ignored path="wowza.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
