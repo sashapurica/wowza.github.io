@@ -32,7 +32,7 @@ lang: "en"
 author: "Carlos Camacho"
 title: "{ Wowza.io Open Source SDK }"
 description: "Wowza.io OpenSOurce implementation, live it, share it, improve it."
-keywords: "wowza, broadcast, github, OpenSource"
+keywords: "wowza, broadcast, github, OpenSource, html5, streaming"
 favicon: "/img/favicon.ico"
 
 ################
